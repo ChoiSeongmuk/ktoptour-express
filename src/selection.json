@@ -1,0 +1,38 @@
+{
+  "HOTEL": {
+    "3STAR": 100000,
+    "4STAR": 180000,
+    "5STAR": 300000
+  },
+  "MEAL": {
+    "Buffet(4Star)": 100000,
+    "Buffet(5Star)": 130000,
+    "Halal Buffet": 50000
+  },
+  "VEHICLE": {
+    "Sedan(5Seater)": 180000,
+    "Van(11Seater)7": 180000,
+    "Limousine Van(23 Seater)": 600000,
+    "Tourisr Bus (45 Seater)": 1000000
+  },
+  "ProductCode": {
+    "P1A": 0,
+    "P1B": 0,
+    "P12A": 0,
+    "P23A": 0,
+    "P23B": 0,
+    "P34A": 0,
+    "P34B": 0,
+    "P45A": 0,
+    "P45B": 0,
+    "P56A": 0,
+    "P56B": 0,
+    "P67A": 0,
+    "P67B": 0,
+    "P68A": 0
+  },
+  "Auxiliary equipment": {
+    "Electric Wheelchair": 0,
+    "Manual Wheelchair": 0
+  }
+}
